@@ -1,0 +1,553 @@
+@media only screen and (max-width: 1025px) and (min-width: 770px) {
+	.contentSecction2HOmepage h1 {
+		font-size: 35px;
+	}
+
+	.contentSecction2HOmepage h2 {
+		font-size: 28px;
+		margin: 20px 0px;
+		font-weight: 700;
+	}
+
+	.listContainerNoContainerHomepage {
+		padding: 20px;
+	}
+
+	.listContainerNoContainerHomepage li {
+		flex: 0 50%;
+	}
+
+	.imageCOntainerLeft {
+		flex: 0 40%;
+	}
+
+	.listContainerNoContainerHomepage {
+		flex: 0 60%;
+	}
+
+	.sectoinLastHomepage h2 {
+		font-size: 32px;
+		line-height: normal;
+		font-weight: 700;
+	}
+	.rightMenu {
+		display: none;
+	}
+	.contentContainercolumsn {
+		padding: 20px 0px;
+	}
+
+	.contentContainercolumsn h2 {
+		font-size: 26px;
+		font-weight: 700;
+	}
+
+	.contentContainercolumsn p {
+		margin-bottom: 0px;
+	}
+}
+@media only screen and (max-width: 769px) {
+	.headingContaienerBlodl h2 {
+		font-size: 20px;
+	}
+
+	.container {
+		padding: 0px 20px;
+	}
+
+	.pageBanner h2 {
+		font-size: 20px;
+		font-weight: 700;
+		line-height: normal;
+	}
+
+	.pageBanner p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.pageBanner {
+		min-height: 210px;
+	}
+
+	.column2 {
+		flex: 0 100%;
+		margin: 0px;
+		padding: 30px;
+	}
+
+	.column1 {
+		flex: 0 100%;
+	}
+
+	.column2 h3 {
+		font-size: 22px;
+		font-weight: 700;
+	}
+
+	.column2 p {
+		font-size: 11px;
+		line-height: 22px;
+		color: #000;
+	}
+
+	.rowsContainerAbout .row:nth-child(even) .column2 {
+		margin: 0px;
+	}
+
+	.col1 {
+		flex: 0 100%;
+	}
+
+	.col2 {
+		flex: 0 100%;
+		padding: 20px 20px;
+	}
+
+	.contentContainerJosepgh li {
+		display: block;
+		font-size: 12px;
+		line-height: 22px;
+		margin-bottom: 10px;
+	}
+
+	.contentContainerJosepgh li img {
+		display: inline-block;
+	}
+
+	.contentContainerJosepgh h2 {
+		font-size: 22px;
+		font-weight: 700;
+	}
+
+	.containerinnerBoxsed h6 img {
+		width: 30px;
+	}
+
+	.containerinnerBoxsed h6 {
+		font-size: 22px;
+		font-weight: 600;
+	}
+
+	.contentjosepghContaienr {
+		padding: 10px 0px;
+		FONT-WEIGHT: 100;
+	}
+
+	.contentjosepghContaienr p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.contentjosepghContaienr h2 {
+		text-align: center;
+	}
+
+	.inner-client h2 {
+		font-size: 22px;
+		font-weight: 700;
+	}
+
+	.inner-client p {
+		font-size: 13px;
+		line-height: 22px;
+		max-width: 100%;
+	}
+
+	.inner-news {
+		display: block;
+	}
+
+	.iner-width {
+		width: 100%;
+	}
+
+	.iner-width h6 {
+		font-size: 15px;
+		line-height: 22px;
+		font-weight: 400;
+	}
+
+	.iner-width h3 {
+		font-size: 22px;
+		font-weight: 600;
+		line-height: 30px;
+	}
+
+	.iner-width p {
+		font-size: 13px;
+		line-height: 22px;
+		margin-bottom: 30px;
+	}
+
+	.iner-width1 {
+		width: 100%;
+	}
+
+	.cin a {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 14px;
+	}
+
+	.aboutcontentFotoer {
+		border: none;
+	}
+
+	.listConyainer {
+		max-width: 100%;
+	}
+
+	footer h6 {
+		margin: 20px 0px 10px;
+		font-weight: 600;
+	}
+
+	.copyRights {
+		margin: 20px 0px 0px;
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column-reverse;
+		justify-content: flex-start;
+	}
+
+	.numberCOntainer {
+		flex: 0 100%;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	.copyRights a:last-child {
+		margin: 0px;
+	}
+
+	.copyRights img {
+		margin: auto;
+	}
+	.headingContainer h2 {
+		font-size: 22px;
+	}
+
+	.latestArticles h2 {
+		font-size: 20px;
+		font-weight: 700;
+	}
+
+	.contentContainerBlogPostPageh h4 {
+		font-size: 15px;
+	}
+
+	.contentContainerBlogPostPageh p {
+		font-size: 11px;
+		line-height: normal;
+		color: #fff;
+		opacity: 1;
+	}
+	.iner-details {
+		padding: 0px 10px;
+	}
+
+	h2 {
+		font-size: 22px;
+		line-height: normal;
+	}
+
+	.detais p {
+		font-size: 13px;
+		line-height: 22px;
+		font-weight: 400;
+		margin: 20px 0px 0px;
+	}
+
+	body {
+		font-size: 13px;
+		line-height: 22px;
+		font-weight: 300;
+	}
+
+	.hit p {
+		font-weight: 400;
+	}
+
+	.hit span {font-weight: 400;}
+	.contentLeftContact h2, .rightSidecontactPage h2 {
+		font-size: 22px;
+		font-weight: 600;
+	}
+	.pricing-width {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+	.pricing-flex {
+		padding: 0px 10px;
+		flex-wrap: wrap;
+	}
+
+	section.our-fee p {
+		font-size: 13px;
+		line-height: 22px;
+		font-weight: 300;
+	}
+	.brand-flex {
+		display: block;
+	}
+
+	.brand-width {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.contentSection2Solution h2 {
+		font-size: 22px;
+		margin: 20px 0px 0px;
+	}
+
+	.section3Solutions {
+		padding: 20px 0px;
+	}
+
+	.cols2 {
+		flex: 0 100%;
+	}
+
+	.col-1s {flex: 0 100%;}
+
+	.contentContainercolumsn {
+		max-width: 100%;
+		padding: 20px 20px;
+	}
+
+	.contentContainercolumsn h2 {
+		font-size: 22px;
+		font-weight: 700;
+		margin-bottom: 10px;
+	}
+	.rightMenu {
+		display: none;
+	}
+
+	.menuContainer {
+		position: fixed;
+		left: 0;
+		right: 0;
+		background: #fff;
+		left: 0;
+		right: 0;
+		width: 100%;
+		margin: 0px;
+		top: 89px;
+		z-index: 999;
+		display: none;
+	}
+
+	.menuContainer ul {
+		display: block;
+	}
+
+	.menuContainer ul li a {
+		color: #000;
+	}
+
+	.menuContainer ul li {
+		padding: 0px;
+	}
+
+	.menuContainer ul li a {
+		padding: 10px;
+		display: block;
+		border-bottom: 1px solid #cccc;
+	}
+
+	.logoCOntainer img {
+		width: 60px;
+	}
+
+	.logoCOntainer {
+		display: flex;
+		align-items: center;
+	}
+
+	.headerCOntainer {
+		position: relative;
+		display: flex;
+		align-items: center;
+	}
+
+	.hamburger {
+		width: 40px;
+		height: 20px;
+		position: absolute;
+		/* background: red; */
+		right: 0;
+	}
+
+	.hamburger span {
+		position: absolute;
+		height: 1px;
+		background: #fff;
+		width: 100%;
+	}
+
+	.hamburger span:nth-child(2) {
+		bottom: 0;
+	}
+
+	.hamburger span:nth-child(3) {
+		top: 0;
+		bottom: 0;
+		margin: auto;
+	}
+	.section2solutions {
+		padding: 20px 0px;
+	}
+	.bannerHome {
+		min-height: auto;
+		padding: 30px 20px;
+	}
+
+	.bannerHome h2 {
+		font-size: 22px;
+		font-weight: 700;
+		line-height: normal;
+	}
+
+	.buttonContainersHomeBanner {
+		flex-wrap: wrap;
+	}
+
+	.buttonContainersHomeBanner a {
+		width: 100%;
+		max-width: 100%;
+		margin-bottom: 10px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.contentSecction2HOmepage h1 {
+		font-size: 22px;
+	}
+
+	.contentSecction2HOmepage h2 {
+		font-size: 20px;
+	}
+
+	.contentSecction2HOmepage p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.listContainerNoContainerHomepage {
+		padding: 20px;
+		max-width: 100%;
+	}
+
+	.imageCOntainerLeft {
+		flex: 0 100%;
+	}
+
+	.listContainerNoContainerHomepage li {
+		flex: 0 100%;
+	}
+
+	.boxContainerNoCOntainer h2 {
+		font-size: 22px;
+		font-weight: 700;
+	}
+
+	.sectoinLastHomepage {
+		padding: 30px 0px;
+	}
+
+	.sectoinLastHomepage h2 {
+		font-size: 22px;
+		line-height: normal;
+		font-weight: 700;
+	}
+
+	.sectoinLastHomepage p {
+		font-size: 13px;
+		line-height: 22px;
+	}
+
+	.contentCOntainersectionlastSection {
+		margin-bottom: 40px;
+	}
+
+	.sectoinLastHomepage img {
+		margin-left: 80px;
+	}
+
+	.sectoinLastHomepage .getInTOuch img {
+		margin-left: 12px;
+	}
+
+	.sectoinLastHomepage .getInTOuch {
+		font-size: 13px;
+	}
+
+	footer .logoCOntainer p {
+		width: 100%;
+	}
+
+	footer .logoCOntainer img {
+		/* width: 100%; */
+	}
+
+	footer .logoCOntainer {
+		display: block;
+	}
+
+	.whyUs .container p {
+		font-size: 13px;
+		line-height: normal;
+	}
+
+	.whyUs .container h2 {
+		font-size: 22px;
+		font-weight: 700;
+	}
+
+	.noContainer {
+		margin: 20px 0px;
+	}
+
+	.imageCOntainerLeft img {
+		height: 200px;
+		width: 100%;
+		object-fit: cover;
+		object-position: top;
+	}
+
+	.boxContainer {
+		min-height: 300px;
+	}
+
+	.fixedInBox h4 {
+		font-size: 14px;
+		font-weight: 700;
+	}
+
+	.fixedInBox li {
+		font-size: 11px;
+		line-height: normal;
+	}
+
+	.fixedInBox a {
+		font-size: 11px;
+	}
+
+	.imageContainerBox img {
+		object-fit: cover;
+	}
+	.boxContinerBlog {
+	}
+
+	.boxContinerBlog a {
+		min-height: 210px;
+	}
+}
